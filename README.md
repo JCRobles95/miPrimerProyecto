@@ -1,2 +1,2 @@
 # miPrimerProyecto
-Mi primer proyecto para aprender Git y GitHub
+Este es mi primer cambio desde mi computadora
